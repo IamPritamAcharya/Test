@@ -1,37 +1,37 @@
-"name","registration_number","branch","session_score","development_score","contest_score"
-"Madan mohan sahoo","2401105255","Unknown",10,0,0
-"Nigam Prasad Sahoo","2401105260","Computer Science Engineering",10,0,21
-"Sadasiba Madala","2401105512","Unknown",10,0,0
-"Sujal jaiswal","2401105298","Unknown",10,0,10
-"Reetika Bhuyan","2401105277","Computer Science Engineering",10,0,0
-"Bibhudatta Jena","2401105479","Unknown",10,0,0
-"Satish Ranjan Satpathy","2401105282","Unknown",10,0,0
-"Ayush Kumar Sahoo","2401105477","Electronics & TC Engineering",10,0,10
-"Subhalaxmi Sahoo","2401105296","Unknown",10,0,0
-"Omm Prasad Nath","2401105265","Computer Science Engineering",10,0,0
-"Yash Agrawall","2401105304","Computer Science Engineering",25,0,15
-"Soumik Ranjan Naik","2401105290","Computer Science Engineering",0,0,0
-"Gourav Biswal","2401105245","Computer Science Engineering",0,0,0
-"Priyankar Padhy","2401105170","Civil Engineering",0,0,10
-"Payal Pradhan","2401105505","Electronics & TC Engineering",0,0,0
-"Satyabrata Sahoo","242501060061","Mechanical Engineering",0,0,0
-"Swayanshu Sarthak Sadangi","2401105302","Computer Science Engineering",30,0,16
-"Abhitosh Panigrahi","2401105228","Computer Science Engineering",30,0,10
-"Anjali parida","2401105236","Computer Science Engineering",20,0,0
-"JAGNYASENI PANDA","2401105250","Unknown",30,0,10
-"Omkar Padhee","2401105264","Computer Science Engineering",20,0,15
-"Smruti Pragyan Das","2401105288","Computer Science Engineering",20,0,0
-"Pratyush Murmu","2401105270","Computer Science Engineering",30,0,10
-"Subhalaxmi Patra","2401105295","Computer Science Engineering",20,0,0
-"Uditansu Mishra","2401105303","Computer Science Engineering",30,0,10
-"SHREYADEEP PARIDA","2403115286","Computer Science Engineering",20,0,0
-"Barenya Behera","2401105478","Electronics & TC Engineering",10,0,0
-"Ishani Pradhan","2401105492","Electronics & TC Engineering",10,0,0
-"Saswat mohanty","242501060015","Mechanical Engineering",10,0,0
-"Harshit Kumar Thakur","2401105127","Unknown",20,0,0
-"Safia Perwin","2401105513","Unknown",20,0,0
-"Alisha Rout","2401105231","Computer Science Engineering",35,0,10
-"Shibasis Panda","2401105285","Computer Science Engineering",35,0,10
-"Prarthana Sarangi","2401105267","Computer Science Engineering",20,0,0
-"Deepika Dutta","2401105483","Unknown",25,0,0
-"Kiran Panda","2401105252","Computer Science Engineering",35,0,10
+"name","session_score","development_score","contest_score","registration_number","branch",
+"Madan mohan sahoo" 10, 0, 0, "2401105255","Unknown"
+"Nigam Prasad Sahoo" 10, 0, 21, "2401105260","Computer Science Engineering"
+"Sadasiba Madala" 10, 0, 0, "2401105512","Unknown"
+"Sujal jaiswal" 10, 0, 10, "2401105298","Unknown"
+"Reetika Bhuyan" 10, 0, 0, "2401105277","Computer Science Engineering"
+"Bibhudatta Jena" 10, 0, 0, "2401105479","Unknown"
+"Satish Ranjan Satpathy" 10, 0, 0, "2401105282","Unknown"
+"Ayush Kumar Sahoo" 10, 0, 10, "2401105477","Electronics & TC Engineering"
+"Subhalaxmi Sahoo" 10, 0, 0, "2401105296","Unknown"
+"Omm Prasad Nath" 10, 0, 0, "2401105265","Computer Science Engineering"
+"Yash Agrawall" 25, 0, 15, "2401105304","Computer Science Engineering"
+"Soumik Ranjan Naik" 0, 0, 0, "2401105290","Computer Science Engineering"
+"Gourav Biswal" 0, 0, 0, "2401105245","Computer Science Engineering"
+"Priyankar Padhy" 0, 0, 10, "2401105170","Civil Engineering"
+"Payal Pradhan" 0, 0, 0, "2401105505","Electronics & TC Engineering"
+"Satyabrata Sahoo" 0, 0, 0, "242501060061","Mechanical Engineering"
+"Swayanshu Sarthak Sadangi" 30, 0, 16, "2401105302","Computer Science Engineering"
+"Abhitosh Panigrahi" 30, 0, 10, "2401105228","Computer Science Engineering"
+"Anjali parida" 20, 0, 0, "2401105236","Computer Science Engineering"
+"JAGNYASENI PANDA" 30, 0, 10, "2401105250","Unknown"
+"Omkar Padhee" 20, 0, 15, "2401105264","Computer Science Engineering"
+"Smruti Pragyan Das" 20, 0, 0, "2401105288","Computer Science Engineering"
+"Pratyush Murmu" 30, 0, 10, "2401105270","Computer Science Engineering"
+"Subhalaxmi Patra" 20, 0, 0, "2401105295","Computer Science Engineering"
+"Uditansu Mishra" 30, 0, 10, "2401105303","Computer Science Engineering"
+"SHREYADEEP PARIDA" 20, 0, 0, "2403115286","Computer Science Engineering"
+"Barenya Behera" 10, 0, 0, "2401105478","Electronics & TC Engineering"
+"Ishani Pradhan" 10, 0, 0, "2401105492","Electronics & TC Engineering"
+"Saswat mohanty" 10, 0, 0, "242501060015","Mechanical Engineering"
+"Harshit Kumar Thakur" 20, 0, 0, "2401105127","Unknown"
+"Safia Perwin" 20, 0, 0, "2401105513","Unknown"
+"Alisha Rout" 35, 0, 10, "2401105231","Computer Science Engineering"
+"Shibasis Panda" 35, 0, 10, "2401105285","Computer Science Engineering"
+"Prarthana Sarangi" 20, 0, 0, "2401105267","Computer Science Engineering"
+"Deepika Dutta" 25, 0, 0, "2401105483","Unknown"
+"Kiran Panda" 35, 0, 10, "2401105252","Computer Science Engineering"
